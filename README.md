@@ -37,7 +37,7 @@ Welcome to my GitHub cyber portfolio! I'm passionate about ethical hacking, CTFs
 
 ## 🧠 Projects & Walkthroughs
 
-📂 [VulnHub Walkthroughs](#)  
+📂 [VulnHub Walkthroughs](https://github.com/preetika-cyber/vulnhub-walkthroughs)  
 Writeups for machines like `Cybersploit`, `Deathnote`, `HA Infinity Stones`, and more – covering enumeration, exploitation, and privilege escalation steps.
 
 📜 [Linux Enumeration Cheatsheet](https://github.com/preetika-cyber/linux-enum-cheatsheet/blob/main/README.md)  
