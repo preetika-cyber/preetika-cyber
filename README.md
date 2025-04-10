@@ -56,7 +56,7 @@ You'll find helpful walkthroughs and notes in my repositories – perfect for be
 ---
 
 ## 🔗 Let's Connect!
-- 💼 [LinkedIn](www.linkedin.com/in/preetika-rastogi-b54049243) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/preetika-rastogi-b54049243/) 
 - 📧 [Email me](mailto:preetikarastogi9@gmail.com)
 
 ---
