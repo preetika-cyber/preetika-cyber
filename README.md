@@ -1,16 +1,64 @@
-## Hi there 👋
+# 👋 Hey there! I'm Preetika – Aspiring Cybersecurity Analyst 🔐
 
-<!--
-**preetika-cyber/preetika-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub cyber portfolio! I'm passionate about ethical hacking, CTFs, network security, and continuously learning to protect digital assets. 
+💻🛡️ I'm currently pursuing my Master of Computer Applications (MCA) and actively building my skills in the cybersecurity domain.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+
+### 🧰 Tools & Frameworks
+- Nmap, Burp Suite, Metasploit (payloads, meterpreter, exploit, shell), Hydra
+- Wireshark, John the Ripper, tcpdump
+- OWASP Top Ten
+
+### 💻 Operating Systems & Environments
+- Kali Linux, WinCandidate
+- VirtualBox, VMware
+
+### 💻 Scripting & Reporting
+- 🐍 Python, 🐚 Bash
+- 📄 Microsoft Word for professional reporting and documentation
+
+### 🔒 Core Areas
+- Information Gathering (Passive & Active)
+- Threat Modelling
+- Vulnerability Assessment
+- Exploitation
+---
+
+## 💼 Certifications & Training
+- 🎓 **Google Cybersecurity Certificate**
+- 📘 **Preparing for ICPT Exam**
+- 🧑‍💻 **Tata Cybersecurity Simulation – Forage**
+- 🎓 **Pursuing MCA (Master of Computer Applications)**
+
+---
+
+## 🧠 Projects & Walkthroughs
+
+📂 [VulnHub Walkthroughs](#)  
+Writeups for machines like `Cybersploit`, `Deathnote`, `HA Infinity Stones`, and more – covering enumeration, exploitation, and privilege escalation steps.
+
+💣 [Brute Force Python Script](#)  
+A simple Python script designed to perform brute-force attacks on login forms using a wordlist. Useful for learning about password attacks and testing weak credentials in controlled environments.
+
+📜 [Linux Enumeration Cheatsheet](#)  
+A handy reference guide listing essential Linux commands for post-exploitation and privilege escalation. Ideal for CTFs, pentesting practice, and quick lookups during engagements.
+
+---
+
+## ✍️ Blog & Learning
+
+I love documenting what I learn through CTFs, tools, and cybersecurity concepts.  
+You'll find helpful walkthroughs and notes in my repositories – perfect for beginners in cybersecurity!
+
+---
+
+## 🔗 Let's Connect!
+- 💼 [LinkedIn](www.linkedin.com/in/preetika-rastogi-b54049243) 
+- 📧 [Email me](mailto:preetikarastogi9@gmail.com)
+
+---
+
+> 🧩 _“Security is not a product, but a process.” – Bruce Schneier_
