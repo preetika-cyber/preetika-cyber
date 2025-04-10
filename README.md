@@ -43,7 +43,7 @@ Writeups for machines like `Cybersploit`, `Deathnote`, `HA Infinity Stones`, and
 💣 [Brute Force Python Script](#)  
 A simple Python script designed to perform brute-force attacks on login forms using a wordlist. Useful for learning about password attacks and testing weak credentials in controlled environments.
 
-📜 [Linux Enumeration Cheatsheet](#)  
+📜 [Linux Enumeration Cheatsheet](https://github.com/preetika-cyber/linux-enum-cheatsheet/blob/main/README.md)  
 A handy reference guide listing essential Linux commands for post-exploitation and privilege escalation. Ideal for CTFs, pentesting practice, and quick lookups during engagements.
 
 ---
