@@ -43,6 +43,12 @@ Writeups for machines like `Cybersploit`, `Deathnote`, `HA Infinity Stones`, and
 📜 [Linux Enumeration Cheatsheet](https://github.com/preetika-cyber/linux-enum-cheatsheet/blob/main/README.md)  
 A handy reference guide listing essential Linux commands for post-exploitation and privilege escalation. Ideal for CTFs, pentesting practice, and quick lookups during engagements.
 
+🛠️ [Penetration Testing Tools Basics](https://github.com/preetika-cyber/penetration-testing-tools-basics/blob/main/README.md)
+
+A beginner-friendly guide to essential tools used in various phases of penetration testing.  
+This repository includes some tools, descriptions, usage examples and short description 
+Ideal for cybersecurity students, CTF players, and anyone building a practical foundation in ethical hacking.
+
 ---
 
 ## ✍️ Blog & Learning
